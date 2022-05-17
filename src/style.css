@@ -1,0 +1,9 @@
+#content {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+
+#new-project-div {
+    margin-top: 30px;
+}
