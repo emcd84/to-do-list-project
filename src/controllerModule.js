@@ -8,7 +8,7 @@ import { Project } from "./projectModule";
 //May 22 -- set up info retainment + add delete functionality + finalize appearance
 
 let allProjects = [
-    new Project("Inbox", [new Task("Set up my to-do list", "This is your to-do list! Create projects to organize your tasks and place miscellaneous items here in your inbox.", "None", 1, false)])
+    new Project("Inbox", [new Task("Set up my to-do list", "This is your to-do list! Create projects to organize your tasks and place miscellaneous items here in your inbox.", "No due date", 1, false)])
 ]
 
 const run = () => {
